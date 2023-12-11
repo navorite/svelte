@@ -1,5 +1,11 @@
 # svelte
 
+## 4.2.9
+
+### Patch Changes
+
+- fix: add `gamepadconnected` and `gamepaddisconnected` events ([#9864](https://github.com/sveltejs/svelte/pull/9864))
+
 ## 4.2.8
 
 ### Patch Changes
