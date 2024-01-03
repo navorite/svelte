@@ -1,5 +1,15 @@
 # svelte
 
+## 5.0.0-next.29
+
+### Patch Changes
+
+- fix: support TypeScript's `satisfies` operator ([#10068](https://github.com/sveltejs/svelte/pull/10068))
+
+- fix: provide `unstate` in server environment ([`877ff1ee7`](https://github.com/sveltejs/svelte/commit/877ff1ee7d637e2248145d975748e1012a977396))
+
+- fix: always treat spread attributes as reactive and separate them if needed ([#10071](https://github.com/sveltejs/svelte/pull/10071))
+
 ## 5.0.0-next.28
 
 ### Patch Changes
